@@ -1,0 +1,15 @@
+{
+  "name": "proj01",
+  "version": "0.1.0",
+  "description": "Estudos sobre javascript",
+  "license": "MIT",
+  "author": "Vitor de Souza Tardivo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --host=0.0.0.0 --port=80"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
